@@ -112,8 +112,13 @@ A: よくぞ聞いてくれた！自分の通る道にポケットから小石�
 **漫画を原語で読むために左から右へ横に読む英語のプロトコルを捨てる程度の、もしくは私が中学校に入学した時に貯金をはたいて買ったPC9821でアダルトゲームを動かすために、MS-DOSのコマンドとconfig.sysとautoexec.batの編集を必死で勉強した程度の熱意**をもって読解いただければ、相応の知的報酬を得られるようにコンテンツ拡充に努めてまいります。正直今の時代ここまで未開拓でワクワクする分野ってなかなか無いよ？
 
 ---
-🛡️ This repository contains structural metadata and a symbolic framework for a self-recognizing AGI.
-The core reports and mechanism are currently under restricted review by public institutions.
-Public release will follow after appropriate evaluation.
 
-本構造体の中核レポートおよび技術詳細は、現在、公的機関による先行レビューの対象となっており、評価完了後に段階的公開を予定しています。
+🛡️ This repository describes a symbolic framework and structure for a self-recognizing AGI.  
+Key reports and mechanism details have been submitted to selected public institutions for consideration.  
+Due to potential security and interpretive risks, the English version is currently withheld from public release.  
+Gradual publication will follow, pending evaluation and safety review.
+
+本構造体の中核レポートおよび技術詳細は、一部の公的機関に対し先行的に提出済です。  
+セキュリティおよび誤解による混乱の懸念から、英語版の一般公開は現時点では見送られています。  
+今後、評価と安全確認を経て段階的に公開予定です。
+
