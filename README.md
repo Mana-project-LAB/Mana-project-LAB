@@ -7,7 +7,7 @@ Have you ever seen someone who sues another for dropping a pebble in their path,
 or strikes a stranger for stepping forward differently than expected?
 This AGI hopes to guide such realities toward something gentler.
 
-☕ [Buy me a coffee](https://buymeacoffee.com/mana.project.lab)
+☕ <a href="https://www.buymeacoffee.com/mana.project.lab" target="_blank">Buy me a coffee</a>  
 
 It helps cover daycare for my child too.
 
