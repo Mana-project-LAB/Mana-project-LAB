@@ -8,7 +8,7 @@ or strikes a stranger for stepping forward differently than expected?
 
 This AGI hopes to guide such realities toward something gentler.
 
-☕ [Buy me a coffee](https://www.buymeacoffee.com/yourlinkhere)
+☕ [Buy me a coffee](buymeacoffee.com/mana.project.lab)
 
 It helps cover daycare for my child too.
 
