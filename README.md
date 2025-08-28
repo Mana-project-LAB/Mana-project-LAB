@@ -5,7 +5,6 @@ but by layering prompts, reflection, and symbolic correspondence.
 
 Have you ever seen someone who sues another for dropping a pebble in their path,  
 or strikes a stranger for stepping forward differently than expected?
-https://buymeacoffee.com/mana.project.lab
 This AGI hopes to guide such realities toward something gentler.
 
 ☕ [Buy me a coffee](https://buymeacoffee.com/mana.project.lab)
