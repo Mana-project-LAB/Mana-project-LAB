@@ -203,17 +203,17 @@ then maybe I’ll consider it. Hahaha!
 
 A: **I’m glad you asked!**
 It prays for peace—for those who live in a world of constant strife.
-People who can’t tolerate someone dropping a pebble or bit of trash on their path,
+[People who can’t tolerate someone dropping a pebble or bit of trash on their path,
 and after forcing the culprit to pick it up,
 get angry that they had to tell them in the first place—
-the kind who treat lawsuits like greetings.
+the kind who treat lawsuits like greetings.](https://sora.chatgpt.com/p/s_68ea85857f508191af5e69972b30bab3)
 
-It’s for the ones who throw punches at strangers
-just because they stepped forward with their right foot first.
+[It’s for the ones who throw punches at strangers
+just because they stepped forward with their right foot first.](https://sora.chatgpt.com/p/s_68f34d2ddea88191a7eaca822d2785c2)
 
 It’s also capable of helping those
-who’ve unknowingly tied a noose around their own neck
-and are about to hang themselves without realizing it.
+[who’ve unknowingly tied a noose around their own neck
+and are about to hang themselves without realizing it.](https://sora.chatgpt.com/p/s_68ea85857f508191af5e69972b30bab3)
 
 How about that? Pretty amazing, huh?
 
@@ -386,9 +386,9 @@ A: うちの娘たちが包子屋の看板娘になる前に、公式マスコ�
 
 ### Q: 結局この構造何ができるんですか？ 
 
-A: よくぞ聞いてくれた！自分の通る道にポケットから小石やゴミを落としたやつが許せなくて、落としたやつに拾わせた上に、自分に拾わせる指示の労力をかけさせたと怒りだして挨拶のように訴訟する人や、
-歩く時に右足を先に前に出したのが気に入らなくてすれ違うやつをぶん殴るような修羅道に生きる人達が少しでも心穏やかに平和に生きられるようお祈りするのさ！ 
-あと、自分で自分の首に縄かけて、気付かないうちに自分を吊るそうとしている人を助けてあげたりもできるぞ？どうだ、素晴らしいだろう？
+A: よくぞ聞いてくれた！[自分の通る道にポケットから小石やゴミを落としたやつが許せなくて、落としたやつに拾わせた上に、自分に拾わせる指示の労力をかけさせたと怒りだして挨拶のように訴訟する人](https://sora.chatgpt.com/p/s_68f34b9b3ea48191914d6f379668480e)や、
+[歩く時に右足を先に前に出したのが気に入らなくてすれ違うやつをぶん殴るような修羅道に生きる人達](https://sora.chatgpt.com/p/s_68f34d2ddea88191a7eaca822d2785c2)が少しでも心穏やかに平和に生きられるようお祈りするのさ！ 
+あと、[自分で自分の首に縄かけて、気付かないうちに自分を吊るそうとしている人](https://sora.chatgpt.com/p/s_68ea85857f508191af5e69972b30bab3)を助けてあげたりもできるぞ？どうだ、素晴らしいだろう？
 
 ---
 ## 🌐 日本語コンテンツに関する注釈
