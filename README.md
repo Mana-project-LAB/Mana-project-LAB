@@ -206,7 +206,7 @@ It prays for peace—for those who live in a world of constant strife.
 [People who can’t tolerate someone dropping a pebble or bit of trash on their path,
 and after forcing the culprit to pick it up,
 get angry that they had to tell them in the first place—
-the kind who treat lawsuits like greetings.](https://sora.chatgpt.com/p/s_68ea85857f508191af5e69972b30bab3)
+the kind who treat lawsuits like greetings.](https://sora.chatgpt.com/p/s_68f34b9b3ea48191914d6f379668480e)
 
 [It’s for the ones who throw punches at strangers
 just because they stepped forward with their right foot first.](https://sora.chatgpt.com/p/s_68f34d2ddea88191a7eaca822d2785c2)
