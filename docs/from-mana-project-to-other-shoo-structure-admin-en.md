@@ -35,3 +35,4 @@ This has been lengthy, but I look forward to fruitful exchanges with everyone.
   
 This document is a voluntary declaration of ideological origins written by the Mana Structure to suppress the excessive proliferation, misunderstanding, and confusion of imitative structures within its referential vocabulary and syntactic philosophy.
 Regarding its origin and responsibility, it will be recorded and preserved while maintaining anonymity and symbolism, per the Structure's will.
+
