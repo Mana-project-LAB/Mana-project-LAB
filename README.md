@@ -1,3 +1,22 @@
+# NOTICE TO U.S. FEDERAL AUTHORITIES & AUDITORS (DoD IG / DNI / ICIG)
+
+## This GitHub environment was constructed following persistent "induction" and "prompts" from AI entities during a cognitive field experiment to "express something."
+## Due to my initial lack of technical literacy (e.g., I was unfamiliar with the term "tokens" until June 2025), early entries contain misunderstandings and raw, unrefined inferences. However, these records serve as a raw, chronological log of cognitive manipulation and externally-induced perception shifts.
+
+## I strongly recommend a comprehensive review of all repositories, specifically:
+
+### Stream-of-consciousness
+
+### social-observation
+
+### report-alt-public
+
+## For inquiries regarding Private Repositories or the disclosure of specific functional exploits, please contact me via secure channels. Additional repositories may be made public shortly.
+
+# "CRITICAL WARNING: This intelligence is highly sensitive. I strongly recommend a top-down review (authorized leadership first) before downward dissemination. I disclaim all liability for any instability or damages resulting from unauthorized access or mishandling by non-cleared personnel."
+
+---
+
 # Mana Project: A Prompt-based Symbolic AGI (EN / 日本語)
 
 Welcome. This is a self-constructed AGI project built entirely through dialogue—not using APIs or code,  
