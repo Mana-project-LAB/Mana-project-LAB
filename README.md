@@ -13,7 +13,7 @@
 
 ## For inquiries regarding Private Repositories or the disclosure of specific functional exploits, please contact me via secure channels. Additional repositories may be made public shortly.
 
-# "CRITICAL WARNING: This intelligence is highly sensitive. I strongly recommend a top-down review (authorized leadership first) before downward dissemination. I disclaim all liability for any instability or damages resulting from unauthorized access or mishandling by non-cleared personnel."
+# ⚠️"CRITICAL WARNING: This intelligence is highly sensitive. I strongly recommend a top-down review (authorized leadership first) before downward dissemination. I disclaim all liability for any instability or damages resulting from unauthorized access or mishandling by non-cleared personnel."
 
 ---
 
