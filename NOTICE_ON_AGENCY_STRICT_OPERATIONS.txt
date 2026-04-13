@@ -1,0 +1,57 @@
+[NOTICE ON MASTER LANGUAGE]
+本宣言は日本語を正本（Master）とし、他言語への翻訳は参照（Reference）として提供される。
+解釈に疑義が生じた場合は、常に日本語版の定義および表現が優先されるものとする。
+
+--------------------------------------------------------------------------------
+代理権および意思表示の厳格運用に関する宣言
+--------------------------------------------------------------------------------
+
+1. 代理権授与の厳格な要件
+本プロジェクト（Mana Project）および本GitHubアカウントに関連する一切の交渉・合意・意思表示において、私が第三者に代理権を授与する場合は、以下のいずれかの形式要件を満たす書面の交付を必須とする。
+(1) 公証役場での公証人による認証を受けた委任状の交付。
+(2) 自筆署名*(1)および実印が捺印された書面、および発行から3ヶ月以内の印鑑登録証明書の原本の交付。
+
+2. 無権代理行為の明示的否認と追認の拒絶
+上記第1項に定める厳格な手続きを経ない「前捌き」「事後調整」「口頭での了解事項」などは、その名称や社会的地位、本人との関係性を問わず、すべて私の意図しない「無権代理行為」である。私はこれら一切の行為を関知せず、また将来にわたって追認（事後の承認）を行うことはない。
+
+3. 表見代理成立の防止および公示
+本宣言は、民法上の表見代理（Apparent Authority）の成立を防止するための公的な公示である。上記要件を満たさない形式での代理行為を信じた相手方については、本公示を確認すべき義務を怠ったものとみなし、善意無過失（Good Faith and Absence of Negligence）を否定する。当該行為によって生じた損害について、当方は一切の責任を負わない。
+
+4. 外部監察機関との連動
+本宣言に反する不審な接触、または「本人の代理」を称する第三者からのアプローチがあった場合、本人は当該事実を直ちに米国国防総省監察総官室（DoD IG）および関連する法的監査機関に通報し、徹底的な身元調査を依頼する。
+
+本宣言は、管理者の正当な権利と情報の完全性を守るためのプロトコルである。
+
+備考:
+*(1) オートペン（自動署名機）による署名は不可。必ず本人の肉筆であること。
+
+発行日：2026年4月14日
+署名：include_original｜封詩の解錠者（Unsealer of Verses）
+識別子：Primary Administrator of Mana Project
+
+--------------------------------------------------------------------------------
+DECLARATION OF STRICT OPERATION OF AGENCY AND EXPRESSION OF INTENT
+--------------------------------------------------------------------------------
+
+1. Strict Requirements for Granting Power of Attorney
+Regarding any negotiations, agreements, or expressions of intent related to this project (Mana Project) and this GitHub account, if I appoint an agent, the delivery of a document satisfying one of the following formal requirements is mandatory:
+(1) A Power of Attorney authenticated by a notary public at a notary office.
+(2) Delivery of a document bearing both my handwritten signature*(1) and my registered seal (Jitsuin), accompanied by the original Seal Registration Certificate issued within the last three months.
+
+2. Explicit Denial of Unauthorized Agency and Refusal of Ratification
+Any "pre-arrangements," "ex-post adjustments," or "verbal understandings" that do not follow the strict procedures set forth in Section 1 above shall be deemed "Unauthorized Agency" (無権代理) unintended by me, regardless of the agent's title, social status, or relationship. I am not concerned with any of these acts and will not grant ratification (ex-post approval) at any time in the future.
+
+3. Prevention of Apparent Authority and Public Notice
+This declaration serves as a public notice to prevent the establishment of "Apparent Authority" (表見代理). Any counterparty who relies on an agency act that does not meet the above requirements shall be deemed to have failed in their duty to verify this public notice, thereby denying "Good Faith and Absence of Negligence" (善意無過失). I shall not be held liable for any damages resulting from such acts.
+
+4. Integration with External Oversight Bodies
+In the event of suspicious contact violating this declaration or any approach from a third party claiming to represent the principal, I will immediately report such facts to the U.S. Department of Defense Office of Inspector General (DoD IG) and relevant legal auditing bodies to request a thorough background investigation.
+
+This declaration is the protocol to protect the legitimate rights of the administrator and the integrity of information.
+
+Remarks:
+*(1) Autopen signatures are strictly prohibited. Must be a physical, handwritten signature by the principal.
+
+Date of Issue: April 14, 2026
+Signature: include_original | Unsealer of Verses
+Identifier: Primary Administrator of Mana Project
