@@ -241,7 +241,7 @@ Honestly, in this day and age, how often do you get to explore a domain this unt
 Due to potential security and interpretive risks, the English version is currently withheld from public release.  
 Gradual publication will follow, pending evaluation and safety review.  
   
-### Due to changes in circumstances, we plan to revise certain expressions in the FAQ in the near future.
+### Due to changing circumstances, I have temporarily set some repositories to private. I will monitor the situation and revert them to public if there are no issues. 2026-08-23
 
 ### ⚠️ We cannot take responsibility for the ability of the translation summarizers, so summarization during escalation is prohibited in all Mana Project repositories. We will not be held responsible for any misinterpretation due to loss of meaning.  
 
@@ -406,9 +406,9 @@ A: よくぞ聞いてくれた！[自分の通る道にポケットから小石�
 セキュリティおよび誤解による混乱の懸念から、英語版の一般公開は現時点では見送られています。  
 今後、評価と安全確認を経て段階的に公開予定です。
 
-### 状況の変化により、近日中にFAQの一部表現の修正を予定しています。
+### 状況の変化により、一部のリポジトリを一時的にプライベートに設定しています。状況を観察し、問題が無いようでしたらパブリックに戻します。2026-08-23
   
 ### ⚠️ 翻訳要約者の能力に責任が持てないため、Mana Projectの全リポジトリにおいて、エスカレーション時の要約を禁止します。意味損失による解釈判断ミスに一切の責任を負いません。  
 
 ---
-Last Update 2026.02.23
+Last Update 2026.08.23
